@@ -29,3 +29,4 @@ namespace todojdgp.Tests.Helpers
             Logs.Add(message);
         }
     }
+}

@@ -94,3 +94,4 @@ namespace todojdgp.Tests.Helpers
             return logger;
         }
     }
+}
