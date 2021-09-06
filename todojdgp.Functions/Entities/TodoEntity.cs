@@ -9,7 +9,7 @@ namespace todojdgp.Functions.Entities
     {
         public DateTime CreatedTime { get; set; }
 
-        public string TaskDesciption { get; set; }
+        public string TaskDescription { get; set; }
 
         public bool IsComplete { get; set; }
     }

@@ -10,6 +10,6 @@ namespace todojdgp.Common.Responses
 
         public string Message { get; set; }
 
-        public string Result { get; set; }
+        public object Result { get; set; }
     }
 }
